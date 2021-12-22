@@ -1,7 +1,7 @@
 body {
-  color: white; /*This indicates the font color. Change this, and it will change initially*/
+  color: rgb(190, 188, 188); /*This indicates the font color. Change this, and it will change initially*/
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #800d0d, #636061, #8f0b0bad, #95919698);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+  font-family: "Lucida Sans", "Brush Script MT", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   padding: 60px;
   text-align: center;
